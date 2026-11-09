@@ -1,1 +1,1 @@
-Ciao ,sono su git
+Ciao , venerdi sono entrato su git
